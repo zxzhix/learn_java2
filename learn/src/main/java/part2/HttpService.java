@@ -41,7 +41,7 @@ public class HttpService {
                final  Socket socket = serverSocket.accept();
                executorService.execute(()->service(socket));
            }
-        } catch (IOException e) {xx
+        } catch (IOException e) {
             e.printStackTrace();
         }
 
