@@ -5,3 +5,6 @@
 在网关启动类：nio02\src\main\java\io\github\kimmking\gateway\NettyServerApplication.java增加通过配置文件获取服务器地址的信息；
 作业2：nio02\src\main\java\io\github\kimmking\gateway\outbound\okhttp，对照老师的方法手动写了一遍；
 对于第3周作业，理解有限，只是看懂了手写网关的主要逻辑，对于路由，限流等，有了一定的了解，但还无法用代码写出来。
+第4周作业：
+作业2：learn_java\learn\src\main\java\part4
+作业6：learn_java\learn\src\main\resources、多线程、并发
