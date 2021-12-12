@@ -14,3 +14,5 @@
 作业2：learn_java\week5\src\main\java\xml、learn_java\week5\src\main\java\autoWire
 作业8：learn_java\week5\src\main\java\starter
 作业10：learn_java\week5\src\main\java\data
+第6周作业
+作业6：learn_java\learn\week6
