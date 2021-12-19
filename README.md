@@ -16,3 +16,6 @@
 作业10：learn_java\week5\src\main\java\data
 第6周作业
 作业6：learn_java\learn\week6
+第7周作业
+作业2：learn_java2/tree/master/week5/src/main/resources
+作业9：learn_java\week5\src\main\java\database\datasource
