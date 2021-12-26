@@ -1,0 +1,19 @@
+create schema pos1;
+create schema pos1;
+
+create table t_order_1
+(
+order_id  int(20)  primary key comment '订单流水号、唯一',
+OrderMainID varchar(40) not null comment '订单主表ID',
+CommID varchar(20) not null comment '商品编码',
+Price varchar(40) not null comment '单价',
+Count Int(10)	not null comment '购买数量',
+state	 varchar(1) not null comment '订单状态1-有效、2-无效',
+makedate date not null comment '创建时间',
+modifydate date not null comment '修改时间'
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+alter table t_order_1 modify order_id int(20) auto_increment ;
+			
+
+下载[ShardingSphere-Proxy](https://www.apache.org/dyn/closer.cgi/shardingsphere/5.0.0-alpha/apache-shardingsphere-5.0.0-alpha-shardingsphere-proxy-bin.tar.gz)，
+下载完成后放到自己相应的目录下
